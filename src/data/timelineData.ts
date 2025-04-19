@@ -40,7 +40,7 @@ export const timelineData: TimelineItem[] = [
     id: "tl4",
     title: "Hackathon Participant",
     date: "March 2025",
-    description: "Won first place at a local hackathon with an AI-powered web application.",
+    description: "participate hakthons ",
     icon: "Trophy",
     category: "achievement"
   },
