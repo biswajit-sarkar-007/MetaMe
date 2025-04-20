@@ -193,7 +193,7 @@ const Contact = () => {
                     id="name"
                     name="name"
                     className="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-2 text-white"
-                    placeholder="John Doe"
+                    placeholder="Enter Your Name"
                     value={formState.name}
                     onChange={handleChange}
                   />
@@ -208,7 +208,7 @@ const Contact = () => {
                     id="email"
                     name="email"
                     className="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-2 text-white"
-                    placeholder="john@example.com"
+                    placeholder="Enter Your Email"
                     value={formState.email}
                     onChange={handleChange}
                   />
