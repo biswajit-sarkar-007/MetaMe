@@ -1,4 +1,4 @@
-# 🧠 Meta Me — Your Story, Animated.
+# 🧠 Meta Me — Your Story, Animated.  ( AI part will be launching soon....)
 
 > 🚀 A visually animated, scroll-triggered dev journey portfolio built for the [PortXFolio Hackathon](https://devpost.com/hackathons).
 
