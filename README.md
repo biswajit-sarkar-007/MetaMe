@@ -12,19 +12,7 @@ Meta Me isn't just another portfolio. It's your **developer story told like a ci
 
 ---
 
-## 🧩 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [File Structure](#file-structure)
-- [How to Run Locally](#how-to-run-locally)
-- [Contributing](#contributing)
-- [Hackathons & Inspirations](#hackathons--inspirations)
-- [Screenshots](#screenshots)
-- [License](#license)
-
----
+ 
 
 ## 🧠 About the Project
 
